@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fir internships
+- 💞️ I’m looking to collaborate on for internships
 - 📫 To reach me mail me on @enterpreneurakshu@gmail.com
 
 <!---
